@@ -1,16 +1,28 @@
-- 👋 Hi, I’m @aikoaf
-- 👀 I’m interested in `Science, Computers, and Piloting`
-- 🌱 I’m currently learning `programming like websites and javascript, also a little bit of science`
-- 💞️ I’m looking to collaborate on `mostly webpages, etc.`
-- 📫 How to reach me: Discord `@.aikosu` or Email `aikoaf@astromc.co`
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have flown a Cessna from Destin Airport to Panama City Beach!
-- ✨ A little something about me: I love staying up extremely late to the point where I pass out at my desk.
-- 💻 What do I do? **Well, I am a Developer at <ins>Team Gravity Studios</ins>**. There I code in Ren'Py. But I also code webpages for funsies.
-- 🖥️ Woah another computer, what could this mean? `I love to mess with Linux.` My parents used to hate it, I would change the operating system on our computers all the time. I started with Ubuntu but then would install Arch Linux and Gentoo for the fun of it, I guess I liked to torture myself xD.
-- 🐶 I have 4 dogs. Their names are Leilani, Gracie, Ariel, and Cooper. *Cooper is last because he's annoying.*
-- 😸 I also have 2 cats. Their names are Boots and Frisky, they are brothers, and they are the sweetest kitties ever.
-<!---
-aikoaf/aikoaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Hi! I'm Aiko!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aikoaf&label=Profile%20views&color=0e75b6&style=flat" alt="aikoaf" /> </p>
+
+- 🔭 I’m currently working on **Sunset Protocol - Visual Novel**
+
+- 🌱 I’m currently learning **Ren'Py, JS, and a few other things.**
+
+- 💬 Ask me about **HTML, CSS, or Ren'Py**
+
+- 📫 How to reach me **Discord: .aikosu**
+
+- ⚡ Fun fact **I have piloted a Cessna!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/a1k0.af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a1k0.af" height="30" width="40" /></a>
+<a href="https://discord.gg/KcCGdfF9rR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KcCGdfF9rR" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aikoaf&show_icons=true&locale=en&layout=compact" alt="aikoaf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aikoaf&show_icons=true&locale=en" alt="aikoaf" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aikoaf&" alt="aikoaf" /></p>
